@@ -76,7 +76,7 @@ fecha,id_orden,cantidad,total_ventas,id_producto,id_cliente,correo
 2021-01-03,33,3,42000,14.0,23,usuario23@gmail.com
 2021-01-03,33,10,126000,17.0,23,usuario23@gmail.com
 2021-01-03,33,3,37800,20.0,23,usuario23@gmail.com
-2021-01-03,34,2,83600,15.0,24,usuario24@gmail.com
+2021-01-03,34,2,83600,15.0,24,usuario24@gmailcom
 2021-01-03,35,1,10800,16.0,25,usuario25@gmail.com
 2021-01-03,35,2,28000,11.0,25,usuario25@gmail.com
 2021-01-03,35,1,14900,12.0,25,usuario25@gmail.com
@@ -102,7 +102,7 @@ fecha,id_orden,cantidad,total_ventas,id_producto,id_cliente,correo
 2021-01-03,43,4,50400,17.0,33,usuario33@gmail.com
 2021-01-03,44,2,83600,15.0,34,usuario34@gmail.com
 2021-01-03,45,1,41800,15.0,35,usuario35@gmail.com
-2021-01-03,46,1,41800,15.0,36,usuario36@gmail.com
+2021-01-03,46,1,41800,15.0,36,usuario36gmail.com
 2021-01-03,47,1,29100,7.0,37,usuario37@gmail.com
 2021-01-03,48,2,21800,8.0,38,usuario38@gmail.com
 2021-01-03,48,1,12600,17.0,38,usuario38@gmail.com

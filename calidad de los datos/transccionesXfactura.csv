@@ -23,7 +23,7 @@ id_orden,cantidad,total_ventas,fecha,id_cliente,correo
 31,8,96600,2021-01-03,21,usuario21@gmail.com
 32,8,91500,2021-01-03,22,usuario22@gmail.com
 33,17,205800,2021-01-03,23,usuario23@gmail.com
-34,2,83600,2021-01-03,24,usuario24@gmail.com
+34,2,83600,2021-01-03,24,usuario24@gmailcom
 35,6,81700,2021-01-03,25,usuario25@gmail.com
 36,1,41800,2021-01-03,26,usuario26@gmail.com
 37,1,41800,2021-01-03,27,usuario27@gmail.com
@@ -35,6 +35,6 @@ id_orden,cantidad,total_ventas,fecha,id_cliente,correo
 43,6,78400,2021-01-03,33,usuario33@gmail.com
 44,2,83600,2021-01-03,34,usuario34@gmail.com
 45,1,41800,2021-01-03,35,usuario35@gmail.com
-46,1,41800,2021-01-03,36,usuario36@gmail.com
+46,1,41800,2021-01-03,36,usuario36gmail.com
 47,1,29100,2021-01-03,37,usuario37@gmail.com
 48,3,34400,2021-01-03,38,usuario38@gmail.com
