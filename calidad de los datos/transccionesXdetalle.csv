@@ -31,7 +31,7 @@ fecha;id_orden;id_producto;id_cliente;correo;cantidad;total_ventas
 2021-01-02;20;19.0;10;usuario10@gmail.com;1;15400
 2021-01-02;20;17.0;10;usuario10@gmail.com;1;12600
 2021-01-02;21;15.0;11;usuario11@gmail.com;1;41800
-2021-01-02;22;11.0;12;usuario12@gmail.com;1;14000
+2021-01-02;22;11.0;12;USUUARIO12@gmail.com;1;14000
 2021-01-02;22;19.0;12;USUUARIO12@gmail.com;1;15400
 2021-01-02;22;13.0;12;USUUARIO12@gmail.com;1;14000
 2021-01-02;22;14.0;12;USUUARIO12@gmail.com;1;14000
