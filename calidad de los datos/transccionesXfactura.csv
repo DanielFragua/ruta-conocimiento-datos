@@ -15,7 +15,7 @@ fecha;id_orden;id_cliente;correo;cantidad;total_ventas
 2021-01-02;23;13;usuario13@gmail.com;6;161500
 2021-01-02;24;14;usuario14@gmail.com;1;41800
 2021-01-02;25;15;usuario15@gmail.com;8;91600
-2021-01-02;26;16;;1;41800
+2021-01-02;26;16;usuario16@gmail.com;1;41800
 2021-01-02;27;17;usuario17@gmail.com;3;40700
 2021-01-02;28;18;usuario18@gmail.com;6;90900
 2021-01-02;29;19;usuario19@gmail.com;8;123800
@@ -29,7 +29,7 @@ fecha;id_orden;id_cliente;correo;cantidad;total_ventas
 2021-01-03;37;27;usuario27@gmail.com;1;41800
 2021-01-03;38;28;usuario28@gmail.com;8;85200
 2021-01-03;39;29;usuario29@gmail.com;4;49600
-2021-01-03;40;30;;5;74700
+2021-01-03;40;30;usuario30@gmail.com;5;74700
 2021-01-03;41;31;usuario31@gmail.com;8;83300
 2021-01-03;42;32;usuario32@gmail.com;3;133500
 2021-01-03;43;33;usuario33@gmail.com;6;78400
